@@ -16,7 +16,7 @@ export const LetterBox = ({
       case "in-wrong":
         return "bg-yellow";
       case "empty":
-        return "bg-light-grey";
+        return "bg-grey";
       default:
         return "bg-light-grey";
     }
